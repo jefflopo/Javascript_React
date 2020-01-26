@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Guilherme Fernando Lopo",
+      "email": "guifer@email.com"
+    },
+    {
+      "name": "Vini de Castro",
+      "email": "vini-castro@email.com",
+      "id": 3
+    }
+  ]
+}
